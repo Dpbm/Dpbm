@@ -4,5 +4,5 @@
 
 ## PROFILES
 📖 [Kaggle](https://www.kaggle.com/dpbmanalysis)
-
+🇲 [Medium](https://dpbm.medium.com/)
 
