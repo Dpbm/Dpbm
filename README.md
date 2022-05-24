@@ -5,7 +5,6 @@
 <br />
 
 
-# PROFILES 😃check it out😃
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://dpbm.medium.com/) 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/dpbmanalysis)  
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dpbm.br/)  
@@ -42,11 +41,5 @@
 
 <br />
 
-# CHECK SOME OF MY PROJECTS
-[![Github-banner](https://user-images.githubusercontent.com/75098594/170084749-f8552768-881a-4fe7-b89c-5f2b73b46b81.png)](https://www.futank.com/)
-
-<br />
-
 # Github STATUS
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dpbm&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-![Snake animation](https://github.com/Dpbm/Dpbm/blob/output/github-contribution-grid-snake.svg)
