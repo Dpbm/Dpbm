@@ -1,18 +1,15 @@
 # Hey, I'm Dpbm 🇧🇷
-### In search of a better world, using technology and a lot of sweat to build a more solid base and more creative people.
-### Nowdays, I'm studying `Computer Science` and working at my Startup [Futank](https://www.futank.com/)
+## In search of a better world, using technology and a lot of sweat to build a more solid base and more creative people.
+
+Nowdays, I'm studying `Computer Science` and working at my Startup [Futank](https://www.futank.com/)
 
 <br />
 
+Interested in all related with computers 💻 From `circuits` to `development`
 
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://dpbm.medium.com/) 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/dpbmanalysis)  
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dpbm.br/)  
-<br />
-
-# INTERESTS
-### All related with computers 💻 
-### From `circuits` to `development`
 
 <br />
 
@@ -26,10 +23,6 @@
 ![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<br />
-
-# LANGUAGES
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
