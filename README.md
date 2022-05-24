@@ -1,7 +1,7 @@
 # Hey, I'm Dpbm 🇧🇷
 ## In search of a better world, using technology and a lot of sweat to build a more solid base and more creative people.
 
-Nowdays, I'm studying `Computer Science` and working at my Startup [Futank](https://www.futank.com/)
+Nowdays, I'm studying `Computer Science` and working at my Startup [Futank](https://www.futank.com/)\
 Interested in all related with computers 💻 From `circuits` to `web`
 
 <br />
