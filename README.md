@@ -2,10 +2,9 @@
 ## In search of a better world, using technology and a lot of sweat to build a more solid base and more creative people.
 
 Nowdays, I'm studying `Computer Science` and working at my Startup [Futank](https://www.futank.com/)
+Interested in all related with computers 💻 From `circuits` to `web`
 
 <br />
-
-Interested in all related with computers 💻 From `circuits` to `development`
 
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://dpbm.medium.com/) 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/dpbmanalysis)  
