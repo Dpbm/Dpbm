@@ -36,4 +36,5 @@ Interested in all related with computers 💻 From `circuits` to `web`
 <br />
 
 # Github STATUS
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dpbm&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=Dpbm&theme=dracula)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dpbm&theme=dracula)
