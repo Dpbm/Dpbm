@@ -15,7 +15,7 @@ You can find me at:
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://dpbm.medium.com/) 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/dpbmanalysis)  
 [![Pypi Badge](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/Dpbm/)
-
+[![ProtonDB](https://img.shields.io/static/v1?style=for-the-badge&message=ProtonDB&color=F50057&logo=ProtonDB&logoColor=FFFFFF&label=)](https://www.protondb.com/users/348123507)
 <br />
 
 # TECHNOLOGIES
