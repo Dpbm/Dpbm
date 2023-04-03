@@ -6,7 +6,7 @@ I'm a computer science student and a music and stories lover.
 # Interests
 
 Everything about computer, programming, and technology in general.\
-Now days I'm focus in quantum computing and low level programming.
+Now days I'm in love with quantum computing, machine learning and low level programming.
 
 <br />
 
