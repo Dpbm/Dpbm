@@ -18,7 +18,7 @@ Now days I'm in love with quantum computing, machine learning and low level prog
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-silva-a22383271/)
 
 
-# TECHNOLOGIES
+## TECHNOLOGIES
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![NEXT JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -33,8 +33,8 @@ Now days I'm in love with quantum computing, machine learning and low level prog
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
-<br />
 
-# Github STATUS
+
+## Github STATUS
 ![Stats](https://github-readme-stats.vercel.app/api?username=Dpbm&theme=dracula)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dpbm&theme=dracula)
