@@ -39,3 +39,4 @@ Now days I'm in love with quantum computing, machine learning and low level prog
 ## Github STATUS
 ![Stats](https://github-readme-stats.vercel.app/api?username=Dpbm&theme=dracula)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dpbm&theme=dracula)
+![View count](https://komarev.com/ghpvc/?username=Dpbm)
