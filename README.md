@@ -1,6 +1,12 @@
-# Hey, I'm Alexandre Aka Dpbm 🇧🇷
-I'm a computer science student and quantum computing enthusiast.
+# About me
+Hey how're doing? 👋\
+I'm Alexandre, nice to meet you😊\
+Once you're here, you probably wants to know more about me, and I'm glad to introduce myself.\
+I'm currently an undergraduate computer science student at UNIVEM.\
+My goal in this graduation it's to learn the most that I can, but my focus is in more theorical and abstract areas, like: quantum computing, machine learning and algorithms.\
+As my professional career, I aim to join into the academic world, becoming a reasearcher in quantum computing and algorithms.
 
+Recently, I've started a `scientifc initation` with focus in `quantum oracles`. In this project, I'm doing some reasearch and code tests to check some hypotesis. Sooner, my article will be published :)
 
 ## Interests
 
