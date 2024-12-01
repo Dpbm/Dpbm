@@ -1,15 +1,22 @@
-# Hey, I'm Alexandre Aka Dpbm 🇧🇷
-I'm a computer science student and quantum computing enthusiast.
+# Hey 👋 My name is Alexandre Silva. Nice to meet you! 
 
+I'm a Brazilian 🇧🇷 Computer Science Student at [UNIVEM - Centro Universitário Eurípides de Marília](https://www.univem.edu.br/).\
+Besides that, I'm a very nerdy guy that enjoys everything in technology and science. Also, I'm very insterested in Music and art.
 
-## Interests
+Since I was a little kid, my passion for technology was notable. Everything was pretty exciting to me, and learning new stuff was (and still) magical to me.\
+I enjoy so much new tech and creating things that may be useful for someone. 
 
-Everything about computer, programming, and technology in general.\
-Now days I'm in love with quantum computing, machine learning and low level programming.
+## Main Interests
 
+Even enjoying everything in tech, my main insterests are:
 
+- Quantum Computing
+- Machine Learning
+- Low Level Programming
 
-## You can find me at: 
+## Connect with me
+
+I'm present in many different places, let's connect 😊
 
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://dpbm.medium.com/) 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/dpbmanalysis)  
@@ -21,17 +28,18 @@ Now days I'm in love with quantum computing, machine learning and low level prog
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dpbm7709)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackexchange.com/users/36462267/user27753521)
 
-## TECHNOLOGIES
+## Main Technologies
+
+In general, I can do whatever I want with any techonology, just requiring a short period of time to get familiar with its ecosystem. However, there're some that I've used the most till now, here are some of them: 
 
 ![NEXT JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ## Github STATUS
-![Stats](https://github-readme-stats.vercel.app/api?username=Dpbm&theme=dracula)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dpbm&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api?username=Dpbm&theme=dracula)\
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dpbm&theme=dracula)\
 ![View count](https://komarev.com/ghpvc/?username=Dpbm)
