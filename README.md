@@ -50,3 +50,4 @@ In general, I can do whatever I want with any techonology, just requiring a shor
 ![Stats](https://github-readme-stats.vercel.app/api?username=Dpbm&theme=dracula)\
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dpbm&theme=dracula)\
 ![View count](https://komarev.com/ghpvc/?username=Dpbm)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dpbm)
