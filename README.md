@@ -47,7 +47,5 @@ In general, I can do whatever I want with any techonology, just requiring a shor
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Github STATUS
-![Stats](https://github-readme-stats.vercel.app/api?username=Dpbm&theme=dracula)\
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dpbm&theme=dracula)\
-![View count](https://komarev.com/ghpvc/?username=Dpbm)\
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dpbm&theme=dracula)
+![View count](https://komarev.com/ghpvc/?username=Dpbm)
