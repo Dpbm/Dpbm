@@ -1,7 +1,6 @@
 # Hey 👋 My name is Alexandre Silva. Nice to meet you! 
 
-I'm a Brazilian 🇧🇷 Computer Science Student at [UNIVEM - Centro Universitário Eurípides de Marília](https://www.univem.edu.br/).\
-Besides that, I'm a very nerdy guy that enjoys everything in technology and science. Also, I'm very insterested in Music and art.
+I'm a Brazilian 🇧🇷 Computer Scientist. Also a very nerdy guy that enjoys everything in technology really insterested in Music and art.
 
 Since I was a little kid, my passion for technology was notable. Everything was pretty exciting to me, and learning new stuff was (and still) magical to me.\
 I enjoy so much new tech and creating things that may be useful for someone. 
