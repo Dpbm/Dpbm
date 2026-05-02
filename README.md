@@ -46,4 +46,6 @@ In general, I can do whatever I want with any techonology, just requiring a shor
 
 ## Github STATUS
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dpbm&theme=dracula)\
-![View count](https://komarev.com/ghpvc/?username=Dpbm)
+![View count](https://komarev.com/ghpvc/?username=Dpbm)\
+![trophy](https://github-profile-trophy.vercel.app/?username=Dpbm)
+
