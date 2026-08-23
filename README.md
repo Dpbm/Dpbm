@@ -48,5 +48,5 @@ In general, I can do whatever I want with any techonology, just requiring a shor
 ![View count](https://komarev.com/ghpvc/?username=Dpbm)\
 ![trophy](https://github-profile-trophy.vercel.app/?username=Dpbm)
 
-> The domain `dpbmdev.com` is not mine. Whatever regarding my name in this website is completely false and totaly unrelated to me.  I'm not responsible for any action taken by this third-party.
+> The domain `dpbmdev.com` is not mine. Whatever regarding my name in this website is completely false and totaly unrelated with me.  I'm not responsible for any action taken by this third-party.
 My official website is located at `dpbm.vercel.app`. 
